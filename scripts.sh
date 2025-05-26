@@ -1,4 +1,6 @@
-#!bin/bash
+#!/bin/bash
 
-print "hello world"
+echo help me
+
+echo "hello fucking guys"
 
