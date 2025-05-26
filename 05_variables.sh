@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "Please enter your: USERNAME"
-read USERNAME
-echo "Please enter your: PASSWORD"
-read PASSWORD
 
-echo USERNAME is $USERNAME and PASSWORD is $PASSWORD
+echo "please enter $NUMBER1"
+echo "please enter $NUMBER2"
+
+
+SUM=(($NUMBER1+$NUMBER2))
